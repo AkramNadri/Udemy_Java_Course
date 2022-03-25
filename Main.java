@@ -36,9 +36,9 @@
 /////////////////////////////////////////////////////////
 
 
+// Abstract classes: class that you cant instantiate, you cant create object with an abstract class.
 
-
-public class Main{
+public abstract class Main{
 
     public static void main(String [] args){
 
